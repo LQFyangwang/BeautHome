@@ -1,4 +1,4 @@
-package com.gs.bean;
+﻿package com.gs.bean;
 
 import java.util.Date;
 /**
@@ -7,7 +7,7 @@ import java.util.Date;
  *购物车表
  */
 public class Cart {
-
+ 
 	private String id;
 	private String user_id;
 	private String product_id;
